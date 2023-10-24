@@ -1,0 +1,19 @@
+h1 {
+color: purple;
+}
+
+#header1, #p1{
+    color: green;
+}
+#p2, #p3{
+    color: blue;
+}
+#header3{
+    color: rgb(100, 105, 50);
+}
+#blog > h1 {
+    color: blue;
+}
+a:hover{
+    color: orange;
+}
